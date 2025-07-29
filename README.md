@@ -68,8 +68,8 @@ Gameplay Analyzer is an advanced AI-powered tool designed to analyze Valorant ga
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/valorant-gameplay-analyzer.git
-cd valorant-gameplay-analyzer
+git clone https://github.com/yourusername/GameSenseAI.git
+cd GameSenseAI
 ```
 
 2. Install necessary required packages
